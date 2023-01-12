@@ -9,13 +9,21 @@ https://user-images.githubusercontent.com/92921252/201441710-279f97b2-7328-444a-
 ## This project demonstrates how to use the Blynk app to control a 220VAC bulb through a 2-relay module connected to a home WiFi network.
 
 ## Hardware Components
+
 1- ESP8266 NodeMCU
+
 2-Relay Module
+
 3-220VAC Bulb
+
 4-Jumper wires
+
 5-Software Components
+
 6-Blynk app (iOS or Android)
+
 7-Arduino IDE
+
 8-Blynk library for Arduino
 
 ## Setup Instructions

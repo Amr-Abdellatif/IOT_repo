@@ -19,6 +19,14 @@ This project demonstrates how to control 32 relays using an ESP8266 board, two u
 
 •	Power supply
 
+![TIP41C NPN power transistor](https://user-images.githubusercontent.com/92921252/212137819-77a344cf-2f9d-43d6-9bd6-fb69954eb055.jpg)
+
+![Relay SPDT 5PIN 5V SRD](https://user-images.githubusercontent.com/92921252/212138035-25af53ff-beb2-4291-9f39-6b4a2a682a60.jpg)
+
+![New-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266 jpg_640x640](https://user-images.githubusercontent.com/92921252/212138361-c485f0b8-0182-42f0-a286-a5fb7970d100.jpg)
+
+![41+Wh80XpSL _AC_SY580_](https://user-images.githubusercontent.com/92921252/212138531-3c1142e5-426c-466c-adf9-2f4243848174.jpg)
+
 
 
 ## Circuit Diagram

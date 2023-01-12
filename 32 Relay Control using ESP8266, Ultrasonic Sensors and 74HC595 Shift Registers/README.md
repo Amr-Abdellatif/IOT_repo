@@ -51,7 +51,7 @@ The software for this project is written in C++ using the Arduino IDE. The code 
 ## Installation
 1.	Download and install the Arduino IDE from the Arduino website.
 2.	Connect your ESP8266 board to your computer using a micro-USB cable.
-3.	Open the Arduino IDE and go to File > Preferences. In the Additional Boards Manager URLs field, enter http://arduino.esp8266.com/stable/package_esp8266com_index.json.
+3.	Open the Arduino IDE and go to File > Preferences. In the Additional Boards Manager URLs field, enter arduino.esp8266.com/stable/package_esp8266com .
 4.	Go to Tools > Board > Boards Manager. Search for esp8266 and install the latest version.
 5.	Select your ESP8266 board from the Tools > Board menu.
 6.	Open the code file from this project and upload it to the ESP8266 board by clicking the Upload button.

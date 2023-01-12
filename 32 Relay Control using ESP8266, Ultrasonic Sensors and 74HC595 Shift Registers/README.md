@@ -27,6 +27,8 @@ This project demonstrates how to control 32 relays using an ESP8266 board, two u
 
 ![41+Wh80XpSL _AC_SY580_](https://user-images.githubusercontent.com/92921252/212138531-3c1142e5-426c-466c-adf9-2f4243848174.jpg)
 
+![71TjtgJG5xL](https://user-images.githubusercontent.com/92921252/212138691-937ce501-e29f-44c2-b386-8113ba701f44.jpg)
+
 
 
 ## Circuit Diagram

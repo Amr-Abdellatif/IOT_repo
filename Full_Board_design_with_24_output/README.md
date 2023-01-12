@@ -23,10 +23,15 @@ This project demonstrates how to control 32 relays using an ESP8266 board, two u
 
 ## Circuit Diagram
 ### The circuit diagram is composed of :
+
 •	ESP8266 board : which is connected to the ultrasonic sensors and the 74HC595 shift registers
+
 •	Two ultrasonic sensors : are connected to the ESP8266 board
+
 •	32 Relays: are connected to the 74HC595 shift registers
+
 •	74HC595 shift registers: are connected to the ESP8266 board to control the state of the relays
+
 •	TIP41C transistor : is connected to the ESP8266 board to control the state of the relays
 
 ## Software

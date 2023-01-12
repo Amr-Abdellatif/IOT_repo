@@ -29,13 +29,21 @@ https://user-images.githubusercontent.com/92921252/201441710-279f97b2-7328-444a-
 ## Setup Instructions
 
 1.	Connect the ESP8266 NodeMCU to the 2-relay module and the 220VAC bulb according to the circuit diagram provided.
+
 2.	Download and install the Blynk app on your smartphone.
+
 3.	Create a new project in the Blynk app and generate a unique authentication token.
+
 4.	Download and install the Arduino IDE on your computer.
+
 5.	Install the Blynk library for Arduino using the library manager in the Arduino IDE.
+
 6.	Open the provided Arduino sketch in the IDE and enter your WiFi credentials and the unique Blynk authentication token.
+
 7.	Upload the sketch to the ESP8266 NodeMCU.
+
 8.	Add a button widget in the Blynk app and connect it to virtual pin V0.
+
 9.	Power on the ESP8266 NodeMCU and the bulb should now be controllable through the Blynk app.
 
 

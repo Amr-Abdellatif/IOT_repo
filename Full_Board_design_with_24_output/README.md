@@ -4,12 +4,19 @@ This project demonstrates how to control 32 relays using an ESP8266 board, two u
 
 ## Hardware Components
 •	ESP8266 board (e.g. NodeMCU)
+
 •	Two ultrasonic sensors
+
 •	32 Relays
+
 •	74HC595 shift registers (2 pieces)
+
 •	TIP41C transistor
+
 •	Jumper wires
+
 •	Breadboard
+
 •	Power supply
 
 

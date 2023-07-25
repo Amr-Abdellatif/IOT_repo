@@ -8,7 +8,6 @@ https://user-images.githubusercontent.com/92921252/201441710-279f97b2-7328-444a-
 
 ------------------------------------------------------------------------------------------------------------
 
-https://github.com/Amr-Abdellatif/IOT_repo/assets/92921252/1bec8011-35de-4bbd-b216-87bce7c2ed43
 
 
 
